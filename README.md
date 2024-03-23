@@ -1,2 +1,2 @@
 # Medical Insurance Enrollment Project
-Takehome assignment for Waymark looking at patient enrollment and visit during those enrollment periods
+A project looking at patient enrollment and visits during those enrollment periods
